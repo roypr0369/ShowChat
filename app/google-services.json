@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556330732379",
+    "project_id": "showchat-88b6f",
+    "storage_bucket": "showchat-88b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556330732379:android:e544349ac4d4a2462ea87e",
+        "android_client_info": {
+          "package_name": "com.example.showchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556330732379-bi4ho623j6vrih28kshs16kn600poch7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQkFU2EF3bvR_jdDpX4SAKwGwz2m0Ngw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556330732379-bi4ho623j6vrih28kshs16kn600poch7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
